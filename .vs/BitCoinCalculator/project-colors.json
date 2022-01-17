@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43cd0691-1778-473d-95f1-bf185b4170e1": {
+      "ProjectGuid": "43cd0691-1778-473d-95f1-bf185b4170e1",
+      "DisplayName": "BitCoinCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
