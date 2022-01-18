@@ -41,7 +41,8 @@
             this.currencyMenu.FormattingEnabled = true;
             this.currencyMenu.Items.AddRange(new object[] {
             "EUR",
-            "USD"});
+            "USD",
+            "GBP"});
             this.currencyMenu.Location = new System.Drawing.Point(446, 53);
             this.currencyMenu.Name = "currencyMenu";
             this.currencyMenu.Size = new System.Drawing.Size(93, 21);
@@ -95,6 +96,7 @@
             this.Controls.Add(this.currencyMenu);
             this.Name = "Form1";
             this.Text = "BitCoin Calculator";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

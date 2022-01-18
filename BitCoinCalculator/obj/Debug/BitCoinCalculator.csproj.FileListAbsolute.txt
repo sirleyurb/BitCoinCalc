@@ -1,0 +1,6 @@
+E:\SirleyProga\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.csproj.AssemblyReference.cache
+E:\SirleyProga\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.csproj.SuggestedBindingRedirects.cache
+E:\SirleyProga\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.Form1.resources
+E:\SirleyProga\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.Properties.Resources.resources
+E:\SirleyProga\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.csproj.GenerateResource.cache
+E:\SirleyProga\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.csproj.CoreCompileInputs.cache
